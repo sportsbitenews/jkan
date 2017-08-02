@@ -8,8 +8,8 @@ logo: /img/jkan.png
 jkan_theme: Default
 
 # Authentication
-github_client_id: 
-gatekeeper_host: 
+github_client_id: e524c338775f9aa7cdc3
+gatekeeper_host: https://sportsbite.herokuapp.com
 
 # Dataset schema
 schema: default
